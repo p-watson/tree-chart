@@ -1,5 +1,5 @@
 {
-  "name": "@ssthouse/vue3-tree-chart",
+  "name": "@ssthouse/pwatson-vue3-tree-chart",
   "author": "ssthouse",
   "version": "0.2.6",
   "description": "Tree Component for Vue3 powered by D3.js & SVG",
